@@ -12,9 +12,8 @@ my_list.remove(70)
 
 # Trions la liste par ordre croissant
 my_list.sort()
-print(my_list)
-
-# 7. Rechercher et afficher l'index de la valeur 30
+ 
+# 7. Recherche et affichage l'index de la valeur 30
 index_30 = my_list.index(30)
 
 # Affichage des résultats
